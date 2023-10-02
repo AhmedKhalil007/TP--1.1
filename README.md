@@ -19,7 +19,7 @@ Quel est le nom du fichier de mise en page de l'activité principale?
 
 - [ ] `MainActivity.java`
 - [ ] `AndroidManifest.xml`
-- [ ] `activity_main.xml`
+- [*] `activity_main.xml`
 - [ ] `build.gradle`
 
 ### **Question 2**
@@ -28,7 +28,7 @@ Quel est le nom de la ressource chaîne qui spécifie le nom de l'application?
 
 - [ ] `app_name`
 - [ ] `xmlns:app`
-- [ ] `android:name`
+- [*] `android:name`
 - [ ] `applicationId`
 
 ### **Question 3**
@@ -36,7 +36,7 @@ Quel est le nom de la ressource chaîne qui spécifie le nom de l'application?
 Quel outil utilisez-vous pour créer un nouvel émulateur?
 
 - [ ] Android Device Monitor
-- [ ] AVD Manager
+- [*] AVD Manager
 - [ ] SDK Manager
 - [ ] Theme Editor
 
@@ -55,7 +55,7 @@ Vous voyez la mention `"MainActivity layout is complete"` dans le volet **Logcat
 - [ ] Info
 - [ ] Warn
 - [ ] Error
-- [ ] Assert
+- [*] Assert
 
 ## Soumettez votre application pour la notation
 
